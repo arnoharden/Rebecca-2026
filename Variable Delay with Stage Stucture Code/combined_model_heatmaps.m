@@ -1,5 +1,5 @@
 %% Heatmaps for the Combined Stoichiometric Variable-Delay Model
-% This script saves a mat file witht the neccesary data to constuct the
+% This script saves a mat file with the necessary data to construct the
 % heatmaps. Use plot_combined_model_heatmaps.m for plotting
 clear;
 close all;
